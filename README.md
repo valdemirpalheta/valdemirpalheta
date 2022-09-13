@@ -1,6 +1,6 @@
 ## Olá!!! Eu sou ValdemirPalheta 👋
 
-###Uma coisa nessa vida é certa "Todos os dias Deus nos dá uma nova oportunidade de aprender coisas novas e boas, não desperdice as oportunidades da vida ela pode ser dada a você uma única vez" Evoluir todo dia🚀
+###Uma coisa nessa vida é certa "Todos os dias Deus nos dá uma nova oportunidade de aprender coisas novas e boas, não desperdice as oportunidades da vida ela pode ser dada a você uma única vez" Evoluir todo dia🚀!!!
 
 - 🔭 Hoje trabalho com front-end
 - 🌱 Estou estudando Typescript
